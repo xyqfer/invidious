@@ -24,7 +24,9 @@
   <h3>An open source alternative front-end to YouTube</h3>
 
   <a href="https://instances.invidious.io/">Instances list</a>
-  &nbsp;•&nbsp; 
+  &nbsp;•&nbsp;
+  <a href="https://docs.invidious.io/FAQ.md">FAQ</a>
+  &nbsp;•&nbsp;
   <a href="#documentation">Documentation</a>
   &nbsp;•&nbsp;
   <a href="#contribute">Contribute</a>
